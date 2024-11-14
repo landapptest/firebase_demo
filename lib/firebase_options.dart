@@ -51,6 +51,7 @@ class DefaultFirebaseOptions {
     appId: '1:300215223818:android:a5d9b6c3a9ba0b0a68c1f3',
     messagingSenderId: '300215223818',
     projectId: 'fir-demo-1e1eb',
+    databaseURL: 'https://fir-demo-1e1eb-default-rtdb.firebaseio.com',
     storageBucket: 'fir-demo-1e1eb.firebasestorage.app',
   );
 
@@ -59,7 +60,9 @@ class DefaultFirebaseOptions {
     appId: '1:300215223818:ios:e02d04868df48cb068c1f3',
     messagingSenderId: '300215223818',
     projectId: 'fir-demo-1e1eb',
+    databaseURL: 'https://fir-demo-1e1eb-default-rtdb.firebaseio.com',
     storageBucket: 'fir-demo-1e1eb.firebasestorage.app',
+    iosClientId: '300215223818-c8l56cp14bpuu659o8rondvruqbie0s0.apps.googleusercontent.com',
     iosBundleId: 'com.example.firebaseDemo',
   );
 
@@ -68,7 +71,10 @@ class DefaultFirebaseOptions {
     appId: '1:300215223818:ios:e02d04868df48cb068c1f3',
     messagingSenderId: '300215223818',
     projectId: 'fir-demo-1e1eb',
+    databaseURL: 'https://fir-demo-1e1eb-default-rtdb.firebaseio.com',
     storageBucket: 'fir-demo-1e1eb.firebasestorage.app',
+    iosClientId: '300215223818-c8l56cp14bpuu659o8rondvruqbie0s0.apps.googleusercontent.com',
     iosBundleId: 'com.example.firebaseDemo',
   );
+
 }
